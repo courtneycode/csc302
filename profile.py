@@ -10,4 +10,4 @@ node.disk_image = "urn:publicid:IDN+emulab.net+image+emulab-ops:UBUNTU16-64-STD"
 node.routable_control_ip = "true"
 
 # Print the RSpec to the enclosing page.
-pc.printRequestRSpec(request
+pc.printRequestRSpec(request)
